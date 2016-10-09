@@ -8,3 +8,4 @@ investigate https://pages.github.com/
 #3 Rant about self-organizing
 #4 keep your faith, story of advisor who said I should go work as programmer
 #5 How many proposal to write/get accepted per year as a PhD PostDoc. Rewards? Does anybody say thanks?
+#6 Conversational Interface as the only interface
